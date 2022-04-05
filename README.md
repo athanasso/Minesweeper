@@ -1,3 +1,3 @@
 # Minesweeper
 
-Minesweeper java Game
+Minesweeper Game implemented in JavaFX
